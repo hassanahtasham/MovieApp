@@ -10,10 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b2af71-d4ca-440a-8e7a-d69f2b7f4148" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/data/api/ServiceGenerator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/data/api/TheMovieDBInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/data/repositary/MovieDetailNetworkDataSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/singleMovie/SingleMovieDetailRepositary.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/singleMovie/SingleMovieViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/movieDetail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ba/movieDetail/singleMovie/MovieDetail.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_movie_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_movie_detail.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -143,6 +146,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="253" y="188" key="AndroidCreateResourceFileDialog" timestamp="1633193946290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="188" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1633193946290" />
     <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1632890872067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

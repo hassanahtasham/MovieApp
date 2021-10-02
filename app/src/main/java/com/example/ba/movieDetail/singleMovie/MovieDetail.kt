@@ -1,4 +1,4 @@
-package com.example.ba.movieDetail
+package com.example.ba.movieDetail.singleMovie
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
