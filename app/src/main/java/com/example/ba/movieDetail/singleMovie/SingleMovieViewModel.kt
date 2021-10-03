@@ -23,4 +23,5 @@ class SingleMovieViewModel(val movieDetailRepositary: SingleMovieDetailRepositar
         compositeDisposable.dispose()
 
     }
+
 }

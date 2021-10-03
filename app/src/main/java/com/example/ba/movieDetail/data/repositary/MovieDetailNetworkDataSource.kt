@@ -20,7 +20,7 @@ class MovieDetailNetworkDataSource(private val api: TheMovieDBInterface, private
 
     private val _downloadMovieDetailResponse = MutableLiveData<movieDetailModel>()
     val downloadMovieDetailResponse : LiveData<movieDetailModel>
-    get() = downloadMovieDetailResponse
+    get() = _downloadMovieDetailResponse
 
     fun fetchMovieDetail(movieId: Int){
         _networkState.postValue(NetworkState.LOADING)

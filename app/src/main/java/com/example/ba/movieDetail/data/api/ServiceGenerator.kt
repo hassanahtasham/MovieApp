@@ -1,11 +1,14 @@
 package com.example.ba.movieDetail.data.api
 
+import com.example.ba.BuildConfig
 import okhttp3.CipherSuite
 import okhttp3.ConnectionSpec
 import okhttp3.OkHttpClient
 import okhttp3.TlsVersion
+import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import retrofit2.http.HTTP
 import java.util.*
 
 
@@ -30,11 +33,19 @@ object ServiceGenerator {
 
     private val retrofitBuilder: Retrofit.Builder = Retrofit.Builder()
             .baseUrl(baseUrl)
+        .client(
+            OkHttpClient.Builder()
+                .addInterceptor(HttpLoggingInterceptor()
+                    .apply {
+                        level = if(BuildConfig.DEBUG ) HttpLoggingInterceptor.Level.BODY
+                        else HttpLoggingInterceptor.Level.NONE
+                    }).build()
+        )
             .addConverterFactory(GsonConverterFactory.create())
 
     private val retrofit = retrofitBuilder.build()
     private val api: TheMovieDBInterface = retrofit.create(TheMovieDBInterface::class.java)
-    fun getApi(): TheMovieDBInterface? {
+    fun getApi(): TheMovieDBInterface {
         return api
     }
 }
