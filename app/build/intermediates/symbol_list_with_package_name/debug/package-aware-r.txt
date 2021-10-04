@@ -1880,6 +1880,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id info
 id invisible
 id inward
@@ -1897,7 +1898,6 @@ id leftToRight
 id line1
 id line3
 id linear
-id linearLayout
 id listMode
 id list_item
 id masked
@@ -1931,12 +1931,7 @@ id month_navigation_previous
 id month_title
 id motion_base
 id movie_budget
-id movie_overview
-id movie_rating
 id movie_release_date
-id movie_revenue
-id movie_runtime
-id movie_tagline
 id movie_title
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
@@ -1994,6 +1989,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id revenue
 id reverseSawtooth
 id right
 id rightToLeft

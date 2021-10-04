@@ -16,10 +16,12 @@
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Ba" >
+        android:theme="@style/Theme.Ba"
+        android:usesCleartextTraffic="true" >
         <activity android:name="com.example.ba.movieDetail.singleMovie.movieDetail" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

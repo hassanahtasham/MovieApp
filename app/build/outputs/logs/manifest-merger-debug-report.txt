@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\e49293400a7bef55bac9114672e8b6a7\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\e28b546c31507a35db313aebd35ef43a\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\bb23249328a13d65c47eb3379f4950df\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -47,20 +47,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahtasham Ul Hass
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\16023fb186c9d376410b24d721cc7857\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\e4e47cddaae5e825c2350c80c329e359\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\64c010ebe6c44a1c25dd4a0d28c589c4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:2:11-69
@@ -69,7 +69,7 @@ ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:5:5-6
 	android:name
 		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:7:5-26:19
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:7:5-28:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\e28b546c31507a35db313aebd35ef43a\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\e28b546c31507a35db313aebd35ef43a\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\bb23249328a13d65c47eb3379f4950df\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -86,6 +86,8 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ahtasham Ul Ha
 MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\970d984c0a774a96015a9ea8abf1a0b5\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\b9d6139dfc7b8488fe3d33ada06827ee\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\b9d6139dfc7b8488fe3d33ada06827ee\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:14:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\Ahtasham Ul Hassan\.gradle\caches\transforms-2\files-2.1\1b2d1040c75c565ac941c3f032b2aeda\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -99,25 +101,27 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ah
 	android:allowBackup
 		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:13:9-44
 activity#com.example.ba.movieDetail.singleMovie.movieDetail
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:14:9-22:20
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:16:9-23:20
 	android:name
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:14:19-70
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:16:19-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:21:27-74
 activity#com.example.ba.MainActivity
-ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:23:9-25:20
+ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:24:9-27:20
 	android:name
-		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml:24:19-47
 uses-sdk
 INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Ahtasham Ul Hassan\ba\app\src\main\AndroidManifest.xml
