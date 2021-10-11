@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+// Picasso.with(applicationContext).load(poster).into(imageView);
+       // Picasso.with(applicationContext).load(poster).into(imageView);
 
 // Picasso.with(applicationContext).load(poster).into(imageView);
        // Picasso.with(applicationContext).load(poster).into(imageView);
