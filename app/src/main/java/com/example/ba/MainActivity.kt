@@ -14,8 +14,7 @@ class MainActivity : AppCompatActivity() {
 
 // Picasso.with(applicationContext).load(poster).into(imageView);
        // Picasso.with(applicationContext).load(poster).into(imageView);
-//  Picasso.with(applicationContext).load(poster).into(imageView);
-       // Picasso.with(applicationContext).load(poster).into(imageView);
+// Picasso.with(applicationContext).load(poster).into(imageView);
 
     }
 }
